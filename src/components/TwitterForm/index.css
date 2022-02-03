@@ -1,0 +1,9 @@
+.app {
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 20px;   
+  }
+  .input{
+      width: 250px;
+  }
+  
